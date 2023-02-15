@@ -1,6 +1,3 @@
-# Projeto-Portfolio-Alura
-
-Pode acessar ao site desenvolvido até então em: [Projeto Portfólio Alura](https://gabriel-dupla.github.io/Projeto-Portfolio-Alura/)
 # <p align="center" >  Projeto de portfólio  </p> 
 
 
@@ -37,7 +34,7 @@ https://github.com/Gabriel-Dupla/Projeto-Portfolio-Alura
 cd portfolio
 ```
 
-Ou acessando o link esse link:
+Ou acessando o seguinte link: [Projeto Portfólio Alura](https://gabriel-dupla.github.io/Projeto-Portfolio-Alura/).
 
 ## Tecnologias
   
