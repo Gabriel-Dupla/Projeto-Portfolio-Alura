@@ -3,13 +3,13 @@
 
 ## Cursos base para desenvolver o projeto
 
-* [Curso de HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags](https://cursos.alura.com.br/certificate/748b79cd-e332-4005-8dec-aa1f72b59081)
+* [Curso de HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags](https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags)
 
-* [Curso de HTML e CSS: Classes, posicionamento e Flexbox](https://cursos.alura.com.br/certificate/fc8b83ab-50ca-4230-9cd1-1435800a33b9)
+* [Curso de HTML e CSS: Classes, posicionamento e Flexbox](https://cursos.alura.com.br/course/html-css-classes-posicionamento-flexbox)
 
-* [Curso de HTML e CSS: cabeçalho, footer e variáveis CSS](https://cursos.alura.com.br/certificate/33731fa1-70a9-47d3-a28b-aa7af080399c)
+* [Curso de HTML e CSS: cabeçalho, footer e variáveis CSS](https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css)
 
-* [Curso de HTML e CSS: trabalhando com responsividade e publicação de projetos](https://cursos.alura.com.br/certificate/af070b44-c1d0-44a8-a843-1904c51865cb)
+* [Curso de HTML e CSS: trabalhando com responsividade e publicação de projetos](https://cursos.alura.com.br/course/html-css-responsividade-publicacao-projetos)
 
 ## Sobre a formação
 
